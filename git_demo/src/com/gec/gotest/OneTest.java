@@ -8,6 +8,10 @@ public class OneTest {
     }
 
     public void aaa(){
-        System.out.println("来个aaaa");
+        System.out.println("来个aaaa ");
+    }
+
+    public void dog(){
+        System.out.println("---------来了个dog");
     }
 }
